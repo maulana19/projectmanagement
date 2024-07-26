@@ -2,11 +2,17 @@
 
     <body>
         <div class="wrapper">
-            @include('pages.layouts.sidebar')
+            @if (!Request::is('login'))
+                @include('pages.layouts.sidebar')
+            @endif
             <div class="main">
-                @include('pages.layouts.navbar')
+                @if (!Request::is('login'))
+                    @include('pages.layouts.navbar')
+                @endif
                 @yield('content')
-                @include('pages.layouts.footer')
+                @if (!Request::is('login'))
+                    @include('pages.layouts.footer')
+                @endif
 
             </div>
         </div>

@@ -30,42 +30,32 @@
                                 <td class="d-none d-xl-table-cell">31/06/2023</td>
                                 <td><span class="badge bg-success">Done</span></td>
                                 <td>
-                                    <div class="row">
-                                        <div class="col-md-1 me-2">
-                                            <button class="btn" style="color: white;background-color: #b513bb">
-                                                <b>
-                                                    <i class="align-middle" data-feather="github" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
-                                        <div class="col-md-1 me-2">
-                                            <button class="btn" style="color: white;background-color: #fa903e">
-                                                <b>
-                                                    <i class="align-middle" data-feather="globe" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
-                                        <div class="col-md-1 me-2">
-                                            <button class="btn" style="color: white;background-color: #61b2fd">
-                                                <b>
-                                                    <i class="align-middle" data-feather="info" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
-                                        <div class="col-md-1 me-2">
-                                            <button class="btn" style="color: white;background-color: #180ad8">
-                                                <b>
-                                                    <i class="align-middle" data-feather="edit" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
-                                        <div class="col-md-1">
-                                            <button class="btn" style="color: white;background-color: #ff4747">
-                                                <b>
-                                                    <i class="align-middle" data-feather="trash-2" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
+                                    <div class="btn-group btn-group-lg mb-3" role="group">
+                                        <button class="btn btn-md" style="color: white;background-color: #b513bb">
+                                            <b>
+                                                <i class="align-middle" data-feather="github" style="color: white"></i>
+                                            </b>
+                                        </button>
+                                        <button class="btn" style="color: white;background-color: #fa903e">
+                                            <b>
+                                                <i class="align-middle" data-feather="globe" style="color: white"></i>
+                                            </b>
+                                        </button>
+                                        <button class="btn" style="color: white;background-color: #61b2fd">
+                                            <b>
+                                                <i class="align-middle" data-feather="info" style="color: white"></i>
+                                            </b>
+                                        </button>
+                                        <button class="btn" style="color: white;background-color: #180ad8">
+                                            <b>
+                                                <i class="align-middle" data-feather="edit" style="color: white"></i>
+                                            </b>
+                                        </button>
+                                        <button class="btn" style="color: white;background-color: #ff4747">
+                                            <b>
+                                                <i class="align-middle" data-feather="trash-2" style="color: white"></i>
+                                            </b>
+                                        </button>
                                     </div>
                                 </td>
                             </tr>
@@ -76,42 +66,32 @@
                                 <td class="d-none d-xl-table-cell">31/06/2023</td>
                                 <td><span class="badge bg-danger">Cancelled</span></td>
                                 <td class="d-none d-md-table-cell">
-                                    <div class="row">
-                                        <div class="col-md-1 me-2">
-                                            <button class="btn" style="color: white;background-color: #b513bb">
-                                                <b>
-                                                    <i class="align-middle" data-feather="github" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
-                                        <div class="col-md-1 me-2">
-                                            <button class="btn" style="color: white;background-color: #fa903e">
-                                                <b>
-                                                    <i class="align-middle" data-feather="globe" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
-                                        <div class="col-md-1 me-2">
-                                            <button class="btn" style="color: white;background-color: #61b2fd">
-                                                <b>
-                                                    <i class="align-middle" data-feather="info" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
-                                        <div class="col-md-1 me-2">
-                                            <button class="btn" style="color: white;background-color: #180ad8">
-                                                <b>
-                                                    <i class="align-middle" data-feather="edit" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
-                                        <div class="col-md-1">
-                                            <button class="btn" style="color: white;background-color: #ff4747">
-                                                <b>
-                                                    <i class="align-middle" data-feather="trash-2" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
+                                    <div class="btn-group btn-group-lg mb-3" role="group">
+                                        <button class="btn btn-md" style="color: white;background-color: #b513bb">
+                                            <b>
+                                                <i class="align-middle" data-feather="github" style="color: white"></i>
+                                            </b>
+                                        </button>
+                                        <button class="btn" style="color: white;background-color: #fa903e">
+                                            <b>
+                                                <i class="align-middle" data-feather="globe" style="color: white"></i>
+                                            </b>
+                                        </button>
+                                        <button class="btn" style="color: white;background-color: #61b2fd">
+                                            <b>
+                                                <i class="align-middle" data-feather="info" style="color: white"></i>
+                                            </b>
+                                        </button>
+                                        <button class="btn" style="color: white;background-color: #180ad8">
+                                            <b>
+                                                <i class="align-middle" data-feather="edit" style="color: white"></i>
+                                            </b>
+                                        </button>
+                                        <button class="btn" style="color: white;background-color: #ff4747">
+                                            <b>
+                                                <i class="align-middle" data-feather="trash-2" style="color: white"></i>
+                                            </b>
+                                        </button>
                                     </div>
                                 </td>
                             </tr>
@@ -122,42 +102,32 @@
                                 <td class="d-none d-xl-table-cell">31/06/2023</td>
                                 <td><span class="badge bg-success">Done</span></td>
                                 <td class="d-none d-md-table-cell">
-                                    <div class="row">
-                                        <div class="col-md-1 me-2">
-                                            <button class="btn" style="color: white;background-color: #b513bb">
-                                                <b>
-                                                    <i class="align-middle" data-feather="github" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
-                                        <div class="col-md-1 me-2">
-                                            <button class="btn" style="color: white;background-color: #fa903e">
-                                                <b>
-                                                    <i class="align-middle" data-feather="globe" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
-                                        <div class="col-md-1 me-2">
-                                            <button class="btn" style="color: white;background-color: #61b2fd">
-                                                <b>
-                                                    <i class="align-middle" data-feather="info" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
-                                        <div class="col-md-1 me-2">
-                                            <button class="btn" style="color: white;background-color: #180ad8">
-                                                <b>
-                                                    <i class="align-middle" data-feather="edit" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
-                                        <div class="col-md-1">
-                                            <button class="btn" style="color: white;background-color: #ff4747">
-                                                <b>
-                                                    <i class="align-middle" data-feather="trash-2" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
+                                    <div class="btn-group btn-group-lg mb-3" role="group">
+                                        <button class="btn btn-md" style="color: white;background-color: #b513bb">
+                                            <b>
+                                                <i class="align-middle" data-feather="github" style="color: white"></i>
+                                            </b>
+                                        </button>
+                                        <button class="btn" style="color: white;background-color: #fa903e">
+                                            <b>
+                                                <i class="align-middle" data-feather="globe" style="color: white"></i>
+                                            </b>
+                                        </button>
+                                        <button class="btn" style="color: white;background-color: #61b2fd">
+                                            <b>
+                                                <i class="align-middle" data-feather="info" style="color: white"></i>
+                                            </b>
+                                        </button>
+                                        <button class="btn" style="color: white;background-color: #180ad8">
+                                            <b>
+                                                <i class="align-middle" data-feather="edit" style="color: white"></i>
+                                            </b>
+                                        </button>
+                                        <button class="btn" style="color: white;background-color: #ff4747">
+                                            <b>
+                                                <i class="align-middle" data-feather="trash-2" style="color: white"></i>
+                                            </b>
+                                        </button>
                                     </div>
                                 </td>
                             </tr>
@@ -168,44 +138,33 @@
                                 <td class="d-none d-xl-table-cell">31/06/2023</td>
                                 <td><span class="badge bg-warning">In progress</span></td>
                                 <td class="d-none d-md-table-cell">
-                                    <div class="row">
-                                        <div class="col-md-1 me-2">
-                                            <button class="btn" style="color: white;background-color: #b513bb">
-                                                <b>
-                                                    <i class="align-middle" data-feather="github" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
-                                        <div class="col-md-1 me-2">
-                                            <button class="btn" style="color: white;background-color: #fa903e">
-                                                <b>
-                                                    <i class="align-middle" data-feather="globe" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
-                                        <div class="col-md-1 me-2">
-                                            <button class="btn" style="color: white;background-color: #61b2fd">
-                                                <b>
-                                                    <i class="align-middle" data-feather="info" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
-                                        <div class="col-md-1 me-2">
-                                            <button class="btn" style="color: white;background-color: #180ad8">
-                                                <b>
-                                                    <i class="align-middle" data-feather="edit" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
-                                        <div class="col-md-1">
-                                            <button class="btn" style="color: white;background-color: #ff4747">
-                                                <b>
-                                                    <i class="align-middle" data-feather="trash-2" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
+                                    <div class="btn-group btn-group-lg mb-3" role="group">
+                                        <button class="btn btn-md" style="color: white;background-color: #b513bb">
+                                            <b>
+                                                <i class="align-middle" data-feather="github" style="color: white"></i>
+                                            </b>
+                                        </button>
+                                        <button class="btn" style="color: white;background-color: #fa903e">
+                                            <b>
+                                                <i class="align-middle" data-feather="globe" style="color: white"></i>
+                                            </b>
+                                        </button>
+                                        <button class="btn" style="color: white;background-color: #61b2fd">
+                                            <b>
+                                                <i class="align-middle" data-feather="info" style="color: white"></i>
+                                            </b>
+                                        </button>
+                                        <button class="btn" style="color: white;background-color: #180ad8">
+                                            <b>
+                                                <i class="align-middle" data-feather="edit" style="color: white"></i>
+                                            </b>
+                                        </button>
+                                        <button class="btn" style="color: white;background-color: #ff4747">
+                                            <b>
+                                                <i class="align-middle" data-feather="trash-2" style="color: white"></i>
+                                            </b>
+                                        </button>
                                     </div>
-                                </td>
                             </tr>
                             <tr>
                                 <td>Project Phoenix</td>
@@ -214,42 +173,32 @@
                                 <td class="d-none d-xl-table-cell">31/06/2023</td>
                                 <td><span class="badge bg-success">Done</span></td>
                                 <td class="d-none d-md-table-cell">
-                                    <div class="row">
-                                        <div class="col-md-1 me-2">
-                                            <button class="btn" style="color: white;background-color: #b513bb">
-                                                <b>
-                                                    <i class="align-middle" data-feather="github" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
-                                        <div class="col-md-1 me-2">
-                                            <button class="btn" style="color: white;background-color: #fa903e">
-                                                <b>
-                                                    <i class="align-middle" data-feather="globe" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
-                                        <div class="col-md-1 me-2">
-                                            <button class="btn" style="color: white;background-color: #61b2fd">
-                                                <b>
-                                                    <i class="align-middle" data-feather="info" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
-                                        <div class="col-md-1 me-2">
-                                            <button class="btn" style="color: white;background-color: #180ad8">
-                                                <b>
-                                                    <i class="align-middle" data-feather="edit" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
-                                        <div class="col-md-1">
-                                            <button class="btn" style="color: white;background-color: #ff4747">
-                                                <b>
-                                                    <i class="align-middle" data-feather="trash-2" style="color: white"></i>
-                                                </b>
-                                            </button>
-                                        </div>
+                                    <div class="btn-group btn-group-lg mb-3" role="group">
+                                        <button class="btn btn-md" style="color: white;background-color: #b513bb">
+                                            <b>
+                                                <i class="align-middle" data-feather="github" style="color: white"></i>
+                                            </b>
+                                        </button>
+                                        <button class="btn" style="color: white;background-color: #fa903e">
+                                            <b>
+                                                <i class="align-middle" data-feather="globe" style="color: white"></i>
+                                            </b>
+                                        </button>
+                                        <button class="btn" style="color: white;background-color: #61b2fd">
+                                            <b>
+                                                <i class="align-middle" data-feather="info" style="color: white"></i>
+                                            </b>
+                                        </button>
+                                        <button class="btn" style="color: white;background-color: #180ad8">
+                                            <b>
+                                                <i class="align-middle" data-feather="edit" style="color: white"></i>
+                                            </b>
+                                        </button>
+                                        <button class="btn" style="color: white;background-color: #ff4747">
+                                            <b>
+                                                <i class="align-middle" data-feather="trash-2" style="color: white"></i>
+                                            </b>
+                                        </button>
                                     </div>
                                 </td>
                             </tr>

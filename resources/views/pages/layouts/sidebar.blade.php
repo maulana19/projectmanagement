@@ -36,7 +36,7 @@
 					</li>
 
 					<li class="sidebar-item">
-						<a class="sidebar-link" href="index.html">
+						<a class="sidebar-link" href="/login">
                             <i class="align-middle" data-feather="log-out"></i> <span class="align-middle">Logout</span>
                         </a>
 					</li>
