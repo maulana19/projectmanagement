@@ -10,7 +10,7 @@
 						Home
 					</li>
 
-					<li class="sidebar-item active">
+					<li class="sidebar-item @if (Request::is('/')) active @endif">
 						<a class="sidebar-link" href="/">
                             <i class="align-middle" data-feather="home"></i> <span class="align-middle">Dashboard</span>
                         </a>
@@ -20,12 +20,12 @@
 						Projects
 					</li>
 
-					<li class="sidebar-item">
+					<li class="sidebar-item @if (Request::is('projects')) active @endif">
 						<a class="sidebar-link" href="/projects">
                             <i class="align-middle" data-feather="list"></i> <span class="align-middle">All Project</span>
                         </a>
 					</li>
-					<li class="sidebar-item">
+					<li class="sidebar-item @if (Request::is('active-project')) active @endif ">
 						<a class="sidebar-link" href="index.html">
                             <i class="align-middle" data-feather="thumbs-up"></i> <span class="align-middle">Active Project</span>
                         </a>
