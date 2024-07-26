@@ -6,3 +6,4 @@ use App\Http\Controllers\HomeController;
 //Load Pages
 Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 Route::get('/projects', [HomeController::class, 'allProject']);
+Route::get('/active-project', [HomeController::class, 'activeProject']);

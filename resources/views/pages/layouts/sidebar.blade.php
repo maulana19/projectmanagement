@@ -26,7 +26,7 @@
                         </a>
 					</li>
 					<li class="sidebar-item @if (Request::is('active-project')) active @endif ">
-						<a class="sidebar-link" href="index.html">
+						<a class="sidebar-link" href="/active-project">
                             <i class="align-middle" data-feather="thumbs-up"></i> <span class="align-middle">Active Project</span>
                         </a>
 					</li>
