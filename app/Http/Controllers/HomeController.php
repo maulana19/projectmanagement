@@ -33,4 +33,8 @@ class HomeController extends Controller
     public function activeProject() {
         return view('pages.active_project');
     }
+
+    public function newProject() {
+        return view('pages.new_project');
+    }
 }

@@ -30,6 +30,11 @@
                             <i class="align-middle" data-feather="thumbs-up"></i> <span class="align-middle">Active Project</span>
                         </a>
 					</li>
+					<li class="sidebar-item @if (Request::is('new-project')) active @endif ">
+						<a class="sidebar-link" href="/new-project">
+                            <i class="align-middle" data-feather="plus-circle"></i> <span class="align-middle">Add New Project</span>
+                        </a>
+					</li>
 
 					<li class="sidebar-header">
 						Accounts

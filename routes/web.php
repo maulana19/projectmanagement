@@ -8,4 +8,5 @@ use App\Http\Controllers\LoginController;
 Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 Route::get('/projects', [HomeController::class, 'allProject']);
 Route::get('/active-project', [HomeController::class, 'activeProject']);
+Route::get('/new-project', [HomeController::class, 'newProject']);
 Route::get('/login',[LoginController::class, 'index']);
